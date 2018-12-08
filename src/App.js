@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Bye there ! Changing something here !
+            I was changed in the feature branch !
           </p>
           <a
             className="App-link"
